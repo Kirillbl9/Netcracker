@@ -1,6 +1,6 @@
 package entities;
 
-import ru.home.injector.LabInjector;
+import injector.LabInjector;
 import ru.vsu.lab.entities.IDivision;
 import ru.vsu.lab.entities.IPerson;
 import ru.vsu.lab.entities.enums.Gender;

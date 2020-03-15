@@ -1,6 +1,6 @@
 package repository;
 
-import ru.home.MyArrayList;
+import myArrayList.MyArrayList;
 import entities.Person;
 
 import java.io.FileNotFoundException;

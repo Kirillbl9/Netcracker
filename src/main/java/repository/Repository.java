@@ -4,9 +4,9 @@
 package repository;
 
  import entities.Person;
- import ru.home.injector.ExceptionInject;
+ import injector.ExceptionInject;
 
- import static ru.home.injector.Injector.inject;
+ import static injector.Injector.inject;
 
  /**
  * The class creates and stores persons.
